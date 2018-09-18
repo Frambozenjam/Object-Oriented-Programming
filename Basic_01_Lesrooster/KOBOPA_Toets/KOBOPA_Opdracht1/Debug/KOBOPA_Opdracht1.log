@@ -1,0 +1,4 @@
+﻿  KOBOPA_Opdracht1.cpp
+d:\projects\c++\kobopa_opdracht1\kobopa_opdracht1\kobopa_opdracht1.cpp(110): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\projects\c++\kobopa_opdracht1\kobopa_opdracht1\kobopa_opdracht1.cpp(111): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KOBOPA_Opdracht1.vcxproj -> D:\Projects\C++\KOBOPA_Opdracht1\Debug\KOBOPA_Opdracht1.exe
