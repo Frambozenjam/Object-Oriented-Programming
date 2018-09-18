@@ -1,0 +1,11 @@
+﻿  Basic_01_Lesrooster_Main.cpp
+  Class_Schedule.cpp
+d:\school\jaar_2\object oriented programming\basic_01_lesrooster\basic_01_lesrooster_main\basic_01_lesrooster_main\class_schedule.cpp(20): warning C4018: '<': signed/unsigned mismatch
+d:\school\jaar_2\object oriented programming\basic_01_lesrooster\basic_01_lesrooster_main\basic_01_lesrooster_main\class_schedule.cpp(30): error C2664: 'void std::vector<Class_Week,std::allocator<_Ty>>::push_back(_Ty &&)': cannot convert argument 1 from 'Class_Week (__cdecl *)(void)' to 'const Class_Week &'
+          with
+          [
+              _Ty=Class_Week
+          ]
+  d:\school\jaar_2\object oriented programming\basic_01_lesrooster\basic_01_lesrooster_main\basic_01_lesrooster_main\class_schedule.cpp(30): note: Reason: cannot convert from 'overloaded-function' to 'const Class_Week'
+  d:\school\jaar_2\object oriented programming\basic_01_lesrooster\basic_01_lesrooster_main\basic_01_lesrooster_main\class_schedule.cpp(30): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+  Generating Code...
